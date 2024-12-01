@@ -1850,3 +1850,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Dec2024 20:53:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Survival Mode]
 [01Dec2024 20:55:03.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rxd1224 lost connection: Disconnected
 [01Dec2024 20:55:03.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 left the game
+[01Dec2024 20:57:17.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 20:57:17.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 20:57:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 20:57:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Dec2024 21:02:17.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 21:02:17.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 21:02:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 21:02:58.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist<--[HERE]
