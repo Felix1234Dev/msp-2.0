@@ -243,3 +243,13 @@
 [01Dec2024 17:14:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set the time to 1000]
 [01Dec2024 17:14:57.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rxd1224 lost connection: Disconnected
 [01Dec2024 17:14:57.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 left the game
+[01Dec2024 17:23:49.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rxd1224[/100.79.212.21:63517] logged in with entity id 374 at (-364.25280931917905, 110.0, 881.0942664395756)
+[01Dec2024 17:23:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 joined the game
+[01Dec2024 17:23:49.890] [Server thread/INFO] [Jade/]: Syncing config to Rxd1224 (9ceb9d6f-f4c7-3240-8230-b93008123a42)
+[01Dec2024 17:24:03.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Survival Mode]
+[01Dec2024 17:24:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 has made the advancement [Monster Hunter]
+[01Dec2024 17:25:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set the time to 1000]
+[01Dec2024 17:28:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 has made the advancement [Stone Age]
+[01Dec2024 17:29:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 has made the advancement [Getting an Upgrade]
+[01Dec2024 17:31:15.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Creative Mode]
+[01Dec2024 17:32:22.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Survival Mode]
