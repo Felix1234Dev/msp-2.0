@@ -197,3 +197,10 @@
 [01Dec2024 20:45:14.478] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Wolf['Wolf'/369, l='ServerLevel[world]', x=-31.95, y=86.00, z=876.36]
 [01Dec2024 20:45:25.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rxd1224 lost connection: Disconnected
 [01Dec2024 20:45:25.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 left the game
+[01Dec2024 20:48:35.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rxd1224[/100.79.212.21:60868] logged in with entity id 408 at (-229.69999998807907, 111.0, 837.6071081455968)
+[01Dec2024 20:48:35.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 joined the game
+[01Dec2024 20:48:35.996] [Server thread/INFO] [Jade/]: Syncing config to Rxd1224 (9ceb9d6f-f4c7-3240-8230-b93008123a42)
+[01Dec2024 20:52:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Creative Mode]
+[01Dec2024 20:53:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rxd1224: Set own game mode to Survival Mode]
+[01Dec2024 20:55:03.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rxd1224 lost connection: Disconnected
+[01Dec2024 20:55:03.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rxd1224 left the game
